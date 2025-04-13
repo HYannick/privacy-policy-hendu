@@ -1,0 +1,58 @@
+# Hendu Privacy Policy
+
+## Last Updated: April 13, 2025
+
+Thank you for using Hendu, a Chrome extension designed to provide breathing reminders. This Privacy Policy explains what information Hendu collects, how it is used, and your rights regarding this information.
+
+## Information Collection and Use
+
+### What Information We Collect
+
+Hendu has been designed with privacy in mind and collects minimal data:
+
+- **User Settings**: The extension stores your preferences such as reminder intervals, notification style, and volume settings.
+- **No Personal Information**: Hendu does not collect any personal information, including but not limited to names, email addresses, or demographic information.
+- **No Usage Data**: We do not track your browsing history, websites visited, or how you interact with the extension.
+
+### How Information is Stored
+
+- All user settings are stored locally on your device using Chrome's storage API.
+- User settings may be synchronized across your devices if you are signed into Chrome and have sync enabled.
+- No information is transmitted to external servers or third parties.
+
+## Permissions Explained
+
+Hendu requires the following Chrome permissions:
+
+- **Storage**: To save your reminder preferences locally.
+- **Alarms**: To schedule breathing reminders at your specified intervals.
+- **Notifications**: To display breathing reminder notifications.
+- **Offscreen**: To play audio reminders in the background when needed.
+
+## Data Sharing and Disclosure
+
+- **No Data Sharing**: We do not share, sell, rent, or trade any information with third parties.
+- **No External Servers**: Hendu operates entirely within your browser and does not communicate with external servers.
+
+## Your Rights and Choices
+
+- You can view and modify all settings directly through the extension popup.
+- You can uninstall the extension at any time, which will remove all stored settings.
+- No data persists on our end because we don't collect any.
+
+## Children's Privacy
+
+Hendu is suitable for users of all ages and does not collect information from anyone, including children under the age of 13.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+[Your Contact Information]
+
+---
+
+This privacy policy was generated for the Hendu Chrome extension, which provides gentle breathing reminders. Hendu (meaning "air" in Fulfulde) is designed to promote mindful breathing during work and other activities.
